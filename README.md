@@ -10,7 +10,7 @@
 
 I come from Ovalle, a small town tucked away in the Limarí Valley in northern Chile 🇨🇱. Currently, I'm completely dedicated to learn GNU/Linux and the incredible advantages it offers. My goal is to make the Kernel my full-time job one day (*Canonical or Red Hat, if you're reading this, please send a mentor*).
 
-Driven by this enthusiasm, I co-founded the Linux and Open Source Community at my university alongside fellow students, under the motto: 'Linux and Open Source for the common good.'
+Driven by this enthusiasm, I co-founded the [Linux and Open Source Community](https://github.com/lyoss-usm) at my university alongside fellow students, under the motto: 'Linux and Open Source for the common good.'
 
 And if you're wondering: yes, I use arch btw.
 
