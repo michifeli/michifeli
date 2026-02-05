@@ -4,7 +4,7 @@
 # Hi! I'm Mitchel, but you can call me Michi 👋
 <p align="left">
   <a href="https://linkedin.com/in/mitchelrojas">LinkedIn</a> •
-  <a href="mailto:michidot@proton.me">Email</a>
+  <a href="mailto:mrojasrr@proton.me">Email</a>
 </p>
 
 
