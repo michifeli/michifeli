@@ -12,6 +12,6 @@ I come from Ovalle, a small town tucked away in the Limarí Valley in northern C
 
 Driven by this enthusiasm, I co-founded the [Linux and Open Source Community](https://github.com/lyoss-usm) at my university alongside fellow students, under the motto: 'Linux and Open Source for the common good.'
 
-And if you're wondering: yes, I use arch btw.
+And if you're wondering: yes, I use void btw.
 
 I enjoy working with `.astro`, `.sh` and `.c`. I'm always learning something new through cool stuff.
