@@ -15,4 +15,5 @@ Driven by this enthusiasm, I co-founded the [Linux and Open Source Community](ht
 And if you're wondering: yes, I use void btw.
 
 I enjoy working with `.astro`, `.sh` and `.c`. I'm always learning something new through cool stuff.
-[![committers.top badge](https://user-badge.committers.top/chile/USERNAME.svg)](https://user-badge.committers.top/chile/michifeli)
+
+[![committers.top badge](https://user-badge.committers.top/chile/michifeli.svg)](https://user-badge.committers.top/chile/michifeli)
